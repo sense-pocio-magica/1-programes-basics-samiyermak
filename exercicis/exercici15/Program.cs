@@ -6,6 +6,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        {
+            Console.Write("Introdueix el nom: ");
+            string nom = Console.ReadLine();
+
+            Console.Write("Introdueix el cognom: ");
+            string cognom = Console.ReadLine();
+
+            string nomFormatat = char.ToUpper(nom[0]) + nom.Substring(1).ToLower();
+            string cognomFormatat = char.ToUpper(cognom[0]) + cognom.Substring(1).ToLower();
+
+            Console.WriteLine($"Nom complet: {nomFormatat} {cognomFormatat}");
+        }
     }
+
 }
+

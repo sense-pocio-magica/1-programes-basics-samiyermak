@@ -16,6 +16,21 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix la nota de pràctiques: ");
+        int practiques = int.Parse(Console.ReadLine());
+
+        Console.Write("Introdueix la nota de l'examen: ");
+        int examen = int.Parse(Console.ReadLine());
+
+        double notaFinal = (practiques + examen) / 2.0;
+        int decimals = (int)(notaFinal * 10) % 10;
+        int notaArrodonida = (int)notaFinal;
+        if (decimals >= 5)
+        {
+            notaArrodonida += 1;
+        }
+
+        Console.WriteLine($"{notaFinal} {notaArrodonida}");
+
     }
 }

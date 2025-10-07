@@ -6,6 +6,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string nom_del_producte = "Galletas María";
+        float preu = 1.29f;
+        bool enEstoc = true; 
+        string textEstoc = enEstoc ? "Sí" : "No";
+
+        Console.WriteLine("Informació del producte");
+        Console.WriteLine("Nom: " + nom_del_producte);
+        Console.WriteLine("Preu: " + preu + "€");
+        Console.WriteLine("Disponibilitat en estoc: " + textEstoc);
     }
 }

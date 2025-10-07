@@ -12,6 +12,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Entra el número a invertir (tres xifres): ");
+        int numero = int.Parse(Console.ReadLine());
+
+        int centenes = numero / 100;
+        int desenes = (numero / 10) % 10;
+        int unitats = numero % 10;
+
+        int numeroInvertit = unitats * 100 + desenes * 10 + centenes;
+
+        Console.WriteLine($"El número invertit és: {numeroInvertit}");
+
     }
 }
