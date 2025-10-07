@@ -1,0 +1,15 @@
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\bin\Debug\net9.0\exercici20.exe
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\bin\Debug\net9.0\exercici20.deps.json
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\bin\Debug\net9.0\exercici20.runtimeconfig.json
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\bin\Debug\net9.0\exercici20.dll
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\bin\Debug\net9.0\exercici20.pdb
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\obj\Debug\net9.0\exercici20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\obj\Debug\net9.0\exercici20.AssemblyInfoInputs.cache
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\obj\Debug\net9.0\exercici20.AssemblyInfo.cs
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\obj\Debug\net9.0\exercici20.csproj.CoreCompileInputs.cache
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\obj\Debug\net9.0\exercici20.sourcelink.json
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\obj\Debug\net9.0\exercici20.dll
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\obj\Debug\net9.0\refint\exercici20.dll
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\obj\Debug\net9.0\exercici20.pdb
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\obj\Debug\net9.0\exercici20.genruntimeconfig.cache
+C:\Users\samiy\Desktop\DAW\Programación\1-programes-basics-samiyermak\exercicis\exercici20\obj\Debug\net9.0\ref\exercici20.dll

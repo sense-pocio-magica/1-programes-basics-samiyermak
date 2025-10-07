@@ -27,6 +27,22 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Entra el primer número: ");
+        int num1 = int.Parse(Console.ReadLine());
+
+        Console.Write("Entra el segon número: ");
+        int num2 = int.Parse(Console.ReadLine());
+
+        int suma = num1 + num2;
+        int resta = num1 - num2;
+        int multiplicacio = num1 * num2;
+        int divisio = num1 / num2;
+        int residu = num1 % num2;
+
+        Console.WriteLine($"{num1} + {num2} = {suma}");
+        Console.WriteLine($"{num1} - {num2} = {resta}");
+        Console.WriteLine($"{num1} * {num2} = {multiplicacio}");
+        Console.WriteLine($"{num1} / {num2} = {divisio} i en sobra {residu}");
+
     }
 }
